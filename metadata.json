@@ -1,0 +1,6 @@
+{
+  "name": "ProcureAI",
+  "description": "AI-powered Government Tender & Bidder Due-Diligence and Decision-Support Platform",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
